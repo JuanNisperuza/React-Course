@@ -1,0 +1,146 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "description": "Best Indie Latin American Music",
+      "title": "Latam Music",
+      "playlist": [
+        {
+          "title": "Lo Que Hay",
+          "author": "Señor Loop",
+          "type": "video",
+          "cover": "./images/covers/responsive.jpg",
+          "src": "https://file26.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ0lsNTRyMGhWb0NhcFY3Y1ljMHFHRGNJeHRmNmdkaHFhdEhzNXJwRzZBSWNERlBSL2Q4SjR2VG5hKzU5Y3BzV0tLb2FnNVZ0eGxReFQ5M3JTRm15RWl6RlhUZkoyZk02RUVZSFp2cGc1ZzNDdllnYnJZdGlycHBuaVNyMHlhVXpjUHZTazBNZnJmNGFCdzVFVHNaOXZuZ0wwMXVobk9zc0laeXI2UXBGV3d4TGN4NWY5YUdFRnNZNWxQM0k3ODB2V1I5QkZJME1CUGd4NzErcVMxRDRRd1FmZk5LMkFqWm50WnIvejVBUWdJbm5jPQ%3D%3D",
+          "id": 1
+        },
+        {
+          "title": "Humo",
+          "author": "Rupatrupa",
+          "type": "video",
+          "cover": "./images/covers/optimizar.jpg",
+          "src": "https://file167.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ1dqY1U3MHdJMkVhb0g3YVU2MnV2cklzb0tEZlJLNzZ1eEJkZFgraTJUUXRTbUVURFk1c0IyVWoyTTU0Sjd2emJEOXJFd1dOMTVDMU9xdmYrc2d5Vmppd0t3TFA3QUJld1RQMUVwNWhKRnluU2V6ZVhSOXhiM3ZqYmc3RitXZkNVZW9DNGJQTXJZNUpKSDZtaklldVR3MnBNS3ZobU01cGRJNWNhTzdDVGw0SVFicU05Y1lSVWtLOEJObDVmbGk3YkxvRWhFbzdaYTMxVzBvUENqRXBjNEdmalBMMllnWjNaWnNiNjZHZ2dYMVNCRHJUN3Zvdlo5dlROUFlyWW8rM1Rp",
+          "id": 2
+        },
+        {
+          "title": "Alza los pies",
+          "author": "Coletro",
+          "type": "video",
+          "cover": "./images/covers/bitcoin.jpg",
+          "src": "https://file125.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ0hsOWsveEFReER1QUhoNEUxMXErc0xOb0VQcTRLM3NHT0dNaFJ2aTNkWXNPQ1B3SENtWjRnUzNDSTl0cDJqemJMOW9FZkNKa3BCZ2EybHZiMzBEZC9oUUxLYnRuWkhlVVRQMUZpckZWM3hpU1dpYVB5dEFXczlpK0w5UWpSU2oxWXZ6b2ZPTHZUL3BJRG1DTElZUHZoMElRWG9obWU3b0JJNWZ5U3B6N215cmN0aDlCOFNFRkxZSlZPeXBQNjBjL0RvMEVRZzVBZDFuS3lvT2FqQ2FFTU5hMnBReThrR0M4cXZkQytERU5PMzJzVDZEajQ4YW9xczBNbU42VnQrR3VtL09iZ2F6ckZMNVNuSDhqUWU3dnE4b1BxOUtSeXFSQ1Q%3D",
+          "id": 3
+        },
+        {
+          "title": "Lluvia",
+          "author": "Çantamarta",
+          "type": "video",
+          "cover": "./images/covers/html5.jpg",
+          "src": "https://file42.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyaGh1NFovbjBjaUQ3OU5xNHc5dytYcmFPVkRPN0VHekxYMlNZNUV1elBJSlphTk9RT01pWWduVm52Y3NvUWJvRERhNTVzaVhJd2pjQnZvejZQeHNEVXoyeUhzTE5YTUFiMFlibmgyNkEwbzBpaUh6ZnpWcXdINWpIR2hzbHVLYlJzcG5BRU5LdlRHb0xsODhGYWZONmYwblowVitXQ1k1NVVVK2QvYnNSbm15cUE3ck5WNFd4a2xKY0VOZ002a2k2R2M0MVFRbXB4QmpCL3ovTHYxVk5nbUN2aU5iMlU9",
+          "id": 4
+        },
+        {
+          "title": "Es Por Ti",
+          "author": "Los Románticos de Zacatecas",
+          "type": "video",
+          "cover": "./images/covers/mejorandola.jpg",
+          "src": "https://file34.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ0lsOFp4OVI4dVJJZ2Y0NngrMmZDcElNWmNaYU1LaHJDakV0OUE4RDNaWXB2QUZSekNocGMwQ1VlSXlJSmw2UytCL3A1MEg4OTRXaFBIaStlM25td3oyeUhzY2MzWkFMcFRLQ1ZkcmxBM2xuUzFsYlNHbnd5cXZueTVvZ09BWXlsQi8zQUhNdWJ2NDVCRjFHZmZadlRyd0s4QnFCbUY0NWxJenZXZXRSTEp4cUVCcU5ObllWQjlUTU40OHJHbTE5ZWU5a2tLdjgxRWlsM3FwUEx5UUprd0UvaTlWbkYxSmpJQSsrcjdWUllia25SSXFUem5vdjV4dXpSUFlxbHY3VC90b0tld1BtektPTkhnRW9LU2ZnPT0%3D",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "description": "The best classic songs",
+      "title": "Old Songs",
+      "playlist": [
+        {
+          "title": "I Just Want to Be the One You Love",
+          "author": "Crist",
+          "type": "video",
+          "cover": "./images/covers/one-more-time.jpg",
+          "src": "https://file171.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ04wLzh2MUFSb05xcENzc1k3MksrQ0pvSmJKcUpFNG9Tbld1ZGI0SFgwZnNhT0QxdlI1b2hvVDJQVnNkQTB0VHJ3NDQ4MFVaUTBCRERobFBPM2d6Tnp6RlhUYzhpWlVPcHdhVElwaFZreDNpZUh5Yi9YdGhpei9qYWttRWVXZnpBMXBUb0ZLY3JFL3FCSzBGYmZaL0xiM0o0QWtqK1E5NlZGMWVhWWl4SGE4cGM2c1A5NmZHRWdUTVFGaVlxNzB1Q1k0MEFjajhRLzlRdWhzZkt2RkpzaEZhaWJKR1ltYjNKUXZiNjdCRTVZM0N3RS9USHNyL3AzdmpoUFlyWW8rM1RscUE9PQ%3D%3D",
+          "id": 1
+        },
+        {
+          "title": "La vie en rose",
+          "author": "louis armstrong ",
+          "type": "video",
+          "cover": "./images/covers/midnight.jpg",
+          "src": "https://file104.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ0ltWjRzemhWb0JLVUh0SUk4MHEvckQ4WmFKN1JFN0ppdkFzcEcrakRmT3VPZU1odk1sY3RqWTFlVjR0b3lxblRLNEo0aEhPb2lFelNwbE9ybzNSMXZtdzcyYmVlWlRlaEdJM3ByOXdabDJpcVc4K0hWclIybDlpK0x2a0tXZURFSXQzNVpHL2pBcGRvYTh6Nk9QZEg5Z1owRXVTUFI0WlZFa2IzV3VBREoxYnM3aDlsN1lWWjdZSlZpMVpYZzF1UHpwRlVVazQwTzFVT2psdkd6QklvOENMQ1NkaVJQT3pFWjZPRGpZeGNIM1N3ZDYxT0U1SjhIMFhBZldaaDUrMTNnb2FMNUtES0lLb1R4U3A3WkNjZjdvOTNwNit0a3Ewak1vNzZXeXNzUXoxejJIWnFxQU1JQnEwcCs4UHZUdlpWZ2toQ3F6RklKbExGYg%3D%3D",
+          "id": 5
+        },
+        {
+          "title": "Fly Me To The Moon",
+          "author": "Frank Sinatra",
+          "type": "video",
+          "cover": "./images/covers/solar-sailer.jpg",
+          "src": "https://file198.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ0NpdFEwekZzUUNLVk5zcDh1bksrR0w5QUVBNkpFK1lYcEpkWlJ2aFBYZnQ3QUhBYWZzOU1IVmppMS85TjJramJLLzhVUFNjeGpWMTNRbFBPd2szcEZuVXpaY2MzRUJ2TjdRaVlpOVJWY2gzN0QzTC9acVVHK3RYU2hvbktUYlRBQzczNVpHK3pmNUl0ZDEyeU9QZEhwdzhSQS93REtwOGh2dzZLUXRSWHpqYkV4dFpjNEZVSm1jcDVXNW9uODBmSFl0MFltaHBVRjVVQ2hsdmFwT1lvOUdacVRkamgrQVM0QS8rclFYUThoMnkwYngyZTM4Nk1hNFhBTVk2Rks0RzJoNnZmV2RTdW5jczNqUm9LN0orZnMvNU9zM2NBenJXWEQ4dGJWenA1WHFWei9HTml4UzhGYzkwZ21ydjZneW9vejJrYXd5QW9PaSswTW1ScXFKaHhrR3NZZWRTVkpOTVVOQW5OQi9wcXpzUEJwdTR4YU0xLzFzdTQ9",
+          "id": 2
+        },
+        {
+          "title": "Stand By Me",
+          "author": "Ben E. King ",
+          "type": "video",
+          "cover": "./images/covers/social.jpg",
+          "src": "https://file95.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ0duZHR4NGxzSUNLVkw3Y1ljdytXdUo0SnROK3dpeU1HT0ZNcEc5SFdUUjltUE5RQzJvTTkwRWtQUCtzWnAvem5HLzRzZlNjaGxYa3U5eWNDNm1TUmluQVh3TzRyckdLZ0NLQ1ZkcHdVeDlUL0J3ZkRBdkZ2N3ZIRG02Z2FCYVNvMXR3UUFOUHZYem94YzFHZlBVUFg5N0owQWtpcWE5b2hJNWVhVXNBVDUvTGMzdHRKS2EyNXpWTGR3NXMybmorQ0NxRmROeHA0WjFSQ0hocVNqSG80OERxQ0tjRHAxWTNOZnVMKzJDRXBMbG5KWTYyV2s4L0oydURoUUl2RW1zQ1NuNzYvNmNHMD0%3D",
+          "id": 4
+        },
+        {
+          "title": "Hit The Road Jack",
+          "author": "Ray Charles",
+          "type": "video",
+          "cover": "./images/covers/no-vaya-a-ser.jpg",
+          "src": "https://file109.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ01rY0Z4MHhnbVNybERwNGxrL2VXaktQWWNlUGNmZzRleVJaaFMvRExkVHNDS0pBZlU4OG9BVzN5VTQ4TS92SHFkMVlNd0RZd2pjRUs5eWNDNnhEeDNuUUs3ZmRmQVh2VWRaWDV2bkZScjFobUJ3L0RRaGgvNXNIYVNsaFczWlQ1Y214VXRhdHp2b3NrWXhTZkdmNk9pMUpVSzhBV3dwSjlSeXZtUHNSWC96cmRqNllva0RoMGdJc1lQaTl6bTF1ckorQkZPME05RWp4cml1dlQ3RlloaQ%3D%3D",
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Back to Past",
+      "title": "Rock",
+      "playlist": [
+        {
+          "title": "Sweet Child O' Mine ",
+          "author": "Guns N' Roses",
+          "type": "video",
+          "cover": "./images/covers/despacito.jpg",
+          "src": "https://file163.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ0RqZHNwakQ1b002UmZvNTVrbk5lM0pzeGJaWVFIeElhbVd2RWYyRGZXZEp1a05nbUF0WkVuVGppczRzVTB1blQ1K29vbFZ2Wm5BVVNvcTZpdWhtVXdqdzc1ZStmZEZLeGVNRElwaFZsc3hqS0d6dlNSNnpQMW95bm85V3VIS1hZc3Eya0dQT0hWdjV4SDJDS0dKUER4M1lNNm94bU43WWxNeWMrT293VHoxNDA5c05WNVdudDdUSjFVMTUvSzBQYktyRVFRZ1pVajExaTNvT0daRUpjeEdhcWhLQ0FuRVNVZ3hNTGRYMDhobUhkTzZDS3o1dnRqNldVR0xJTmFybWVzNmZ2N1l5dVJjOGVySHNmVmVySHA5NU9zczc5eXRsdkUrN2FYeU13WXdWbitEdHZwRzhJZTVRPT0%3D",
+          "id": 1
+        },
+        {
+          "title": "Otherside ",
+          "author": "Red Hot Chili Peppers",
+          "type": "video",
+          "cover": "./images/covers/echame-la-culpa.jpg",
+          "src": "https://file91.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ1duZEZ4N3g4M1NvaEVyNEVtbk5TbE05bEtQTFJFaHFXMkdkdEc1amZjZEp1a05nbUF0WkVuVGppczRzVTB1blQ1K29vbFZ2WWxEa2JvMWV1enduZHdnQXZ3UWNqTUFiQUxLQ1ZkdWs5Mnh6T1J5YlNHbnhqbzV6ai9nUlhHUGdJVDREWUtLZkNlOHBCRm5pU0FmZkxnN0pnS3VSbWM2cE5GMDgrTnNSSG14cUF0aDlOaFZrRm1ZSmxaM0tYNjJmYkZwazRZaktZUnoxNnRxdDJ3RDVvd0U1cU1kd2hKTVNZQXc4QzVWeVJLbDNVT3RtR3VvdWtpNjI5VVVvOHo3WHFrOE9Ec2NqYVZlNStuR2NEVWM3enM4SjJ2cE9wb3BVU2M5N0NlejhzV3cxL2hXOTZpVmNkZg%3D%3D",
+          "id": 3
+        },
+        {
+          "title": "Tren al sur",
+          "author": "Los Prisioneros",
+          "type": "video",
+          "cover": "./images/covers/mi-gente.jpg",
+          "src": "https://file135.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ0lsOFp4OXdJcUVxSkRxSWc5MlBmcmFQMWRLNmxFN0licElzdEd5bXFBSWNERlBSL2Q4SjR2VG5hKzU5Y3BzV0tLb2FnNVZ0eGxReFQ5M3JTRm15RWl6RlhUTEoyZk02RUVZSFp2cGc1ZzNDdllnYnJZdGdiSG8yK2t0RVNNWWlFWXZTZzBLZWZWLzZCSjJWYllldVhiNUtJR2pnUzJ0NGh2M04yaTRGbW0wL3d6cUlneldVRjdMck55bjUvdHovbmVvRk1Ralp4Qml4djErYnZ5VjhsbFJPT05jQzExWTNOYXViYStDMHBLaVRZSXBYK29wLzQ9",
+          "id": 2
+        },
+        {
+          "title": "EN ALGUN LUGAR",
+          "author": "DUNCAN DHU",
+          "type": "video",
+          "cover": "./images/covers/felices.jpg",
+          "src": "https://file125.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ0FqZHM1eGg1b0phTlo3Y1lLMmErQkw4NEtEZlJLNzZ1c1d2SkI4ai9LT3Z5T0pCMklpY3grRW1QUCtzWnAvem5HLzRzZlNjaGxYa3U5eWNDNm1TUmluQVh3TzRyckdLZ0NLQ1ZkOEFVeDlUL0J3ZkRBdkZ2N3ZIRG02Z2FIZVNvSnN6VTBPZjNGenBwRzZtakhhT0xxN0p3UXFpZU4zWlpNenVLY2kxZjA2cnN6b3RBZ2NIMVpUTVFGaVlxNzB1Q1k0MEFjajhRLzlRdWhzZkt2RkpzaEZhaWJKR1ltYjNKUXZiNjREMDlZM0N3RS9USHZvUGR6dHpoUU43Tmp0WEdpckE9PQ%3D%3D",
+          "id": 4
+        },
+        {
+          "title": "De Musica Ligera ",
+          "author": "SODA STEREO",
+          "type": "video",
+          "cover": "./images/covers/rehuso.jpg",
+          "src": "https://file69.iijj.nl/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ1hsOUU3akNNM0JMbEpxY1prOCtIckRveHNmZUl0N0ptckV0OGYyVGZmZE1LS0QxdlI1b2hvVDJQVnNkQTB0VHJ3NDQ4MFVaUTBCRERobFBPM2d6Tnp6RlhUYzhpWlVPcHdhVElwaFZreDNpZUh5Yi9YdGhpei9qYStxRW1DVXpjZXR5a09Nc3JVOUtCRndIckNiUGJiMzVrQ3FEU2UzYTUyL1B1NG8xT2grNWh1aDRndERsUTZmb0FKbjUzdzBLM3ZpZ0VjbUlrVnlFaXdvTytqVzg5alRmWEhMV1luYTNCUCt1YjFXVVpNbm5KSXF6dnFwZWsyK0QwYVovWT0%3D",
+          "id": 5
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,10 @@
+Body {
+    color: rgb(201, 199, 199);
+    background-color: rgb(21, 6, 49);
+    display: flex;
+}
+.HomeLayout {
+    margin: auto;
+    min-height: 100vh;
+    max-height: max-content;
+}
